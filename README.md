@@ -1,0 +1,1 @@
+# Next JS & Open AI / GPT: PET BLOG GENERATOR
